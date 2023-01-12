@@ -1,0 +1,28 @@
+/*********TAG SELECTIONS***********/
+
+img {
+    background-color: darksalmon;
+} 
+
+img:hover {
+    background-color: rgb(255, 246, 179);
+} 
+
+/*********CLASS SEsLECTIONS***********/
+
+.bacon {
+    background-color: aquamarine;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/*********ID SELECTIONS***********/
+ #heading {
+    color:aquamarine;
+ }
+
+ #big {
+    font-size: 1000px;
+ }
